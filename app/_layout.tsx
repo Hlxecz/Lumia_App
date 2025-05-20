@@ -1,9 +1,10 @@
 // app/_layout.tsx
+//rrrrrr
 import { DarkTheme, DefaultTheme, ThemeProvider } from '@react-navigation/native';
 import { useFonts } from 'expo-font';
 import { SplashScreen as ExpoSplashScreen, router, Stack } from 'expo-router';
 import { StatusBar } from 'expo-status-bar';
-import React, { useCallback, useEffect } from 'react'; // useState, useCallback 추가 (필요시)
+import { useCallback, useEffect } from 'react'; // useState, useCallback 추가 (필요시)
 import { View } from 'react-native'; // View import 추가
 import 'react-native-reanimated';
 
