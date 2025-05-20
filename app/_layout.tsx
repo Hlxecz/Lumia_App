@@ -1,5 +1,5 @@
 // app/_layout.tsx
-//rrrrrr
+// rrrrrr
 import { DarkTheme, DefaultTheme, ThemeProvider } from '@react-navigation/native';
 import { useFonts } from 'expo-font';
 import { SplashScreen as ExpoSplashScreen, router, Stack } from 'expo-router';
